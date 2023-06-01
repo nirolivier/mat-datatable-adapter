@@ -1,0 +1,13 @@
+{
+  "name": "material-jpa-datatable-adapter",
+  "version": "0.0.1-SNAPSHOT",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "@angular/material": "^13.3.9",
+    "@ngx-translate/core": "^14.0.0",
+    "tslib": "^2.3.0"
+  }
+}
